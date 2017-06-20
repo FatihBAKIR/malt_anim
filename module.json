@@ -1,0 +1,17 @@
+{
+  "dependencies": [
+    {
+      "src": "malt3d/malt_core",
+      "version": "^0.1.0",
+      "name": "malt_core"
+    },
+    {
+      "name": "malt_render"
+    },
+    { "name": "malt_asset"}
+  ],
+  "version": "0.1.0",
+  "readable_name": "malt anim",
+  "name": "malt_anim",
+  "components": {}
+}
